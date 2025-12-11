@@ -5,7 +5,6 @@ import "core:os"
 import "core:strings"
 import "core:strconv"
 import "core:math"
-import "core:time"
 
 Vec2 :: [2]int
 
